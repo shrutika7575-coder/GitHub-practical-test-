@@ -102,3 +102,17 @@ footer {
         padding: 17px;
     }
 }
+nav {
+    margin-top: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 12px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
